@@ -25,8 +25,8 @@ Welcome to my GitHub portfolio! This repository contains a collection of project
 ## Skills
 
 - List of key skills relevant to your field.
-  - Skill 1
-  - Skill 2
+  - Ability to learn new things quickly. 
+  - Attention to detail. 
   - ...
 
 ## Certifications
