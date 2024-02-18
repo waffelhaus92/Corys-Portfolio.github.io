@@ -1,0 +1,27 @@
+p {
+    text-align: left;
+    font: 1em sans-serif;
+    font-weight: 600;
+    position: relative;
+    margin-right: 700px;
+    padding-left: 10px;
+}
+
+
+#pic {
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    left: 0;
+    padding: 40px;
+}
+
+body {
+    background-color: rgb(66, 173, 245);
+}
+
+#pro {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+}
